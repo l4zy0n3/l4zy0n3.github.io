@@ -1,5 +1,5 @@
 # 🤓 Hi folks! 💤
-   ### [Visit Me](https://www.github.com/l4zy0n3)
+### [Visit Me](https://www.github.com/l4zy0n3)
 #### Other Pages
 - [Pretty basic Python programs...🐍](https://l4zy0n3.github.io/Python/)
 - [Pretty basic C programs...🌊](https://l4zy0n3.github.io/C/)
