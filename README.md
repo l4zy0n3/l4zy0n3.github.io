@@ -1,7 +1,7 @@
 # 🤓 Hi folks! 💤
 ### [Visit Me](https://www.github.com/l4zy0n3)
 #### Other Pages
-- [Stock Market Sentiment Analysis](https://l4zy0n3.github.io/Project/)
+- [Stock Market Sentiment Analysis](https://l4zy0n3.github.io/Stocks/)
 - [Pretty basic Python programs...🐍](https://l4zy0n3.github.io/Python/)
 - [Pretty basic C programs...🌊](https://l4zy0n3.github.io/C/)
 
